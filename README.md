@@ -1,3 +1,5 @@
+Presently it has to modified w.r.t to coppeliasim axes , due to opposite axes its now correctly planning path 
+
 # mobile_robot_sim_setup
 Setup for simulating mobile robot in presence of moving obstacles in Coppleiasim(V-REP)
 
