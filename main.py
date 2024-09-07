@@ -2,7 +2,7 @@
 
 """
 Mobile robot simulation setup
-@author: Bijo Sebastian 
+@author: Eshant
 """
 import test1_search
 
